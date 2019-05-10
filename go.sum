@@ -4,3 +4,7 @@ github.com/imcg33kgo/go_math_modules v1.0.1 h1:+uVvDz9xGqt8wVOYL5IQJEHdp7pqtpURH
 github.com/imcg33kgo/go_math_modules v1.0.1/go.mod h1:AQ/6KiISdXQ1zq8FZlcJmMis+P/pzzlCj6pc5WozoO0=
 github.com/imcg33kgo/go_math_modules v1.0.2 h1:Cd8qUOiQ4YYl4L4F/1eUewKUtO6TMVpDzdoLlIAyS9g=
 github.com/imcg33kgo/go_math_modules v1.0.2/go.mod h1:AQ/6KiISdXQ1zq8FZlcJmMis+P/pzzlCj6pc5WozoO0=
+github.com/imcg33kgo/testmodule v1.0.1 h1:NsM1JKGaFjFb8nIhS2xbTMoCV1oI0JF3elPhpguDCUs=
+github.com/imcg33kgo/testmodule v1.0.1/go.mod h1:YODPyTtMLBj1vGUHHF+sywv3dlbyVrpljR7fYVhm2vM=
+github.com/objcoding/testmod v1.0.1 h1:PWGrH/rCW8BZ41RsRCGEMryi5ekdqHzHVQSDHJj7Sx8=
+github.com/objcoding/testmod v1.0.1/go.mod h1:LGpYEmOLZhLQC3JW88STU2Ja3rsfoGZmsidsHJhDNGU=
