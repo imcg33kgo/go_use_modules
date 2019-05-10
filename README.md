@@ -8,3 +8,4 @@ Attempt 2: create new project <testmodule>, change go.mod first line to 'module 
 Result: It works well now!
 
 2. How to download modules before coding? To avoid that IDEA auto complete not work
+TODO: Attemp 1:  1) import module in go file 2) exec "go mod download" in terminal 3) back to IDEA and coding, test auto complete
